@@ -1,5 +1,0 @@
-first = input("first")
-first = int(first)
-second = input("second")
-second = int(second)
-print(first + second)
