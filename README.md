@@ -1,9 +1,1 @@
-This is an python plus (+) calucator.
-I made it all myself.
-Also, if your calucator opens within too much time and you want to do some plus calucating, you can use mine.
-It's less more spending time and worth it.
-Also, i will make an type of "calucator" but with minus, divide, times and plus right now.
-Wait for it, i'll be spending time and working in it.
-Sincerely,
-
--not countryball germany flag
+This is the type of calucator i made using python. I love programming since i don't really know,i forgot but i think since 2022. I don't know what to type here but you must read this because it's called README. So i don't really know what to type in here so i'll just type the alphabet right here. abcdefghjklmnopqrstuvwxyz
